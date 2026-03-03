@@ -7,14 +7,15 @@
     --background: 30 30% 96%;
     --foreground: 345 40% 15%;
 
-    --card: 0 0% 100%;
+    /* UPDATED FROM PURE WHITE TO SOFT CREAM */
+    --card: 30 30% 98%;
     --card-foreground: 345 40% 15%;
 
-    --popover: 0 0% 100%;
+    --popover: 30 30% 98%;
     --popover-foreground: 345 40% 15%;
 
-    --primary: 142 76% 36%;  /* Bright green for better visibility */
-    --primary-foreground: 0 0% 100%;  /* White text */
+    --primary: 345 65% 30%;
+    --primary-foreground: 0 0% 100%;  
 
     --secondary: 30 25% 90%;
     --secondary-foreground: 345 40% 15%;
