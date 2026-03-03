@@ -53,7 +53,7 @@ const Index = () => {
             </div>
           </FadeIn>
           <FadeIn delay={0.1}>
-            <h1 className="font-display text-3xl md:text-5xl lg:text-6xl font-bold text-primary-foreground leading-tight max-w-4xl mx-auto">
+            <h1 className="font-display text-3xl md:text-5xl lg:text-6xl font-bold text-white leading-tight max-w-4xl mx-auto">
               Moolapalayam's 4.8-Star Rated Ladies Parlour is <span className="text-accent">Back</span>
             </h1>
           </FadeIn>
