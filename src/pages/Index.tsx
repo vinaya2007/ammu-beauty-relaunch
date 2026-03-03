@@ -58,7 +58,7 @@ const Index = () => {
             </h1>
           </FadeIn>
           <FadeIn delay={0.2}>
-            <p className="mt-6 text-lg md:text-xl text-primary-foreground/80 font-body max-w-2xl mx-auto">
+            <p className="mt-6 text-lg md:text-xl text-yellow-100 font-body max-w-2xl mx-auto">
               Premium Bridal Makeup, Natural Herbal Facials & Expert Beauty Care on Poondurai Main Road.
             </p>
           </FadeIn>
