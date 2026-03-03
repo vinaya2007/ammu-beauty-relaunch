@@ -22,7 +22,7 @@ const Navbar = () => {
   return (
     <>
       {/* Reopening Banner */}
-      <div className="bg-primary text-primary-foreground text-center text-sm py-2 px-4 font-body tracking-wide">
+      <div className="bg-primary text-white text-center text-sm py-2 px-4 font-body tracking-wide">
         ✨ <span className="font-semibold">Now Reopened!</span> Ammu Beauty Care is back & better than ever — Book your appointment today! ✨
       </div>
 
